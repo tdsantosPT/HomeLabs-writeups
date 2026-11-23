@@ -8,4 +8,4 @@ Write-ups of the things I build and break at home: what I set up, the commands I
 | --- | --- |
 | [Pi-hole Home Lab: Encrypted DNS](pihole-home-lab/) | Network-wide ad and tracker blocking on headless Debian — DNS-over-HTTPS to Quad9 with dnscrypt-proxy, SSH and UFW hardening, Tailscale remote access, firewall-log troubleshooting |
 
-More write-ups will be added as I finish new projects. My TryHackMe write-ups are in a separate repo: [tryhackme-writeups](https://gh.ali360.cloudns.ch/tdsantosPT/tryhackme-writeups).
+More write-ups will be added as I finish new projects. My TryHackMe write-ups are in a separate repo: [tryhackme-writeups](https://github.com/tdsantosPT/tryhackme-writeups).
